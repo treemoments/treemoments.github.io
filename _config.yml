@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: CardanoTrees
+title: TreeMoments
 logo: # You can add own logo. For example '/images/logo.png'.
 description: The first on-chain trees living and growing in Cardano Blockchain.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,12 +11,12 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 #-------------------------------
 # Author Settings
 author:
-  author__name: CardanoTrees 
-  author__bio: The first on-chain trees living and growing in Cardano Blockchain.
+  author__name: TreeMoments 
+  author__bio: Inspired by the CardanoTrees project and my enjoyment in trees.
   author__avatar: '/images/logos/cardanotrees_logo_6.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/CardanoTrees"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/Tree_Moments"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
